@@ -1,4 +1,4 @@
-var spring = 53.0;
+var spring = 54.0;
 var damper = 5.0;
 var drag = 10.0;
 var angularDrag = 5.0;
